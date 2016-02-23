@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/jeremyfa/deps/issues"
   },
-  "homepage": "https://github.com/jeremyfa/deps#readme"
+  "homepage": "https://github.com/jeremyfa/deps#readme",
+  "dependencies": {
+    "nodegit": "^0.11.1"
+  }
 }

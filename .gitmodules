@@ -1,0 +1,4 @@
+[submodule "libs/hxnodegit"]
+	path = libs/hxnodegit
+	url = git@github.com:jeremyfa/hxnodegit.git
+	branch = master
